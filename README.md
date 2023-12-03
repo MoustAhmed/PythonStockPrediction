@@ -9,4 +9,4 @@ Feel free to adjust it based on your preferences!
 
 ![Figure_1](https://github.com/MoustAhmed/PythonStockPrediction/assets/121663630/c83f5057-f806-42f3-8bd7-1837561956f9)
 
-![Screenshot 2023-12-03 161219](https://github.com/MoustAhmed/PythonStockPrediction/assets/121663630/4d344843-d7fe-4fee-a9aa-9e4100145f24)
+![Screenshot 2023-12-03 173051](https://github.com/MoustAhmed/PythonStockPrediction/assets/121663630/232bb5b1-892a-4703-97fc-2221c7fceb8a)
