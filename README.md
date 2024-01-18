@@ -2,7 +2,7 @@
 Stock Price Prediction and Analysis, Feel free to adjust it based on your preferences!
 
 
-This Python script predicts the next day's closing stock price using historical data. It allows users to input their preferred stock 
+This Python script predicts the next day's closing stock price using historical data imported from yahoo finance. It allows users to input their preferred stock 
 symbol, visualizes key indicators, makes a prediction using linear regression and assesses prediction accuracy.
 
 # Metrics
