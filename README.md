@@ -16,7 +16,7 @@ The Mean Absolute Percentage Error (MAPE) is calculated using the formula:
 Where:
 - `n` is the number of observations.
 - `Y_i` is the actual value for observation `i`.
-- `Y^i` is the predicted value for observation `i`.
+- `hatY_i` is the predicted value for observation `i`.
 
 
 
